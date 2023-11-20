@@ -14,3 +14,5 @@ git reset --hard codigo git -> restura el ducumento a la
 	repositorio con el código git
 git push -> añade los cambios del archivo local a la nube
 git pull -> añande los cambios del archivo nube al local
+git clone url -> permite la clonacion de un projecto en local
+git tag nombre_tag -m "descipción_tag"
